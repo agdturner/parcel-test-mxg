@@ -1,2 +1,6 @@
-# parcel-test
-Building a web app with Parcel (https://parceljs.org/getting-started/webapp/ parcel) test
+# parcel-test-mxg
+
+Test build of MESMER XML GUI with Parcel2.
+
+Use the following command to run/test from the project root:
+npx parcel src/index.html
